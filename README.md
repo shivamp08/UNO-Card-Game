@@ -29,13 +29,13 @@ To start a hand, each player is dealt 7 cards. The remaining cards will be flipp
 Play proceeds with player 1 and continues in chronological order.
 Play continues until one player has zero cards left in their hand (winner).
 
-**Requirements:**
+## **Requirements:**
 - 2 to 10 Players
 - Each player must have 7 cards
 - Input must be Valid 
 
 **User Interface:**
-\Once selected how many players are going to be playing UNO
+Once selected how many players are going to be playing UNO
 - Each players hand is then displayed
 - Cards each player uses and their effects are shown
 - Hand  is updated after drawing or receiving cards 
