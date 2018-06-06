@@ -34,8 +34,8 @@ Play continues until one player has zero cards left in their hand (winner).
 - Each player must have 7 cards
 - Input must be Valid 
 
-#### User Interface:
-Once selected how many players are going to be playing UNO
+**User Interface:**
+- Game starts with a prompt, which asks the user for the number of players (2-10) 
 - Each players hand is then displayed
 - Cards each player uses and their effects are shown
 - Hand  is updated after drawing or receiving cards 
