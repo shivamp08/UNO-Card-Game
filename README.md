@@ -40,7 +40,7 @@ Play continues until one player has zero cards left in their hand (winner).
 - Cards each player uses and their effects are shown
 - Hand  is updated after drawing or receiving cards 
 
-*-a project by Shivam Patel-*
+*by Shivam Patel-*
 
 
 
